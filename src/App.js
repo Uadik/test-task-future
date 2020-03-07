@@ -61,7 +61,7 @@ const App = () => {
           <Table
             headerData={headers}
             tableData={state.data}
-            rowsToDisplay={10}
+            rowsToDisplay={50}
             onItemSelected={setDisplayedItem}
             onItemInserted={handleInsertItem}
           ></Table>
