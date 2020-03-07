@@ -1,0 +1,16 @@
+.tools-panel {
+  height: 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #a5c2fa;
+}
+
+.insert-button-box {
+  position: absolute;
+  margin-left: -1px;
+  z-index: 1;
+  background-color: #fff;
+}
